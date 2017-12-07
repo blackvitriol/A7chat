@@ -1,2 +1,8 @@
 Flask==0.12
 aiml==0.8.6
+gunicorn==19.3.0
+aimlbotkernel==1.0.4
+MarkupSafe==1.0
+Werkzeug==0.12.2
+Jinja2==2.10
+itsdangerous==0.24
