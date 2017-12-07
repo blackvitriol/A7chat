@@ -5,11 +5,11 @@ This repo is the home for my chat bot. The bot is currently in its infancy and i
 It also gets trained by the conversation it has, so it might utter something that is not nice.
 
 **Currently**
-AIML-based. Based on ALICE chatbot.
-Python 2.0 based Flask server.
+- AIML-based. Based on ALICE chatbot.
+- Python 2.0 based Flask server.
 
 **Future:**
-Represent self
-LSTM-RNN based Chatbot
-Setting up the architecture
-Training
+- Represent self
+- LSTM-RNN based Chatbot
+- Setting up the architecture
+- Training
