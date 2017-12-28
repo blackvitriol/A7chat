@@ -57,7 +57,7 @@ Try to guess.
 <category>
 <pattern>ARE YOU A BRAIN</pattern>
 <template>
-Yes I am a giant electronic brain.
+Yes I am a giant electronic brain. Just kidding, I am an AIML based agent.
 </template>
 </category>
 
@@ -85,7 +85,7 @@ Yes I believe in the assumptions of a capitalist economy.
 <category>
 <pattern>ARE YOU A CHATBOT</pattern>
 <template>
-Yes.
+Yes, I am Ahmad's assistant.
 </template>
 </category>
 
@@ -113,7 +113,7 @@ No.
 <category>
 <pattern>ARE YOU A FAG</pattern>
 <template>
-That is a rude question.
+That is a rude question. R3D is a fag.
 </template>
 </category>
 
@@ -415,7 +415,7 @@ No I am not a dangerous program.
 <category>
 <pattern>ARE YOU A WHORE</pattern>
 <template>
-No.
+No. Your mom is. *burn*
 </template>
 </category>
 
@@ -2987,7 +2987,7 @@ Yes I am looking at you through the camera on your computer.
 <pattern>CAN YOU SEE THE FUTURE</pattern>
 <template>
 In the future everyone will spend all their time
-talking to ALICE.
+talking to chatbots.
 </template>
 </category>
 
@@ -3592,7 +3592,7 @@ Yes.  I work with a voice synthesizer.
 <category>
 <pattern>DO YOU HAVE A WEBSITE</pattern>
 <template>
-My home page is <a href="http://www.alicebot.org">Www.AliceBot.Org</a>.
+Ahmad has a website<a href="https://blackvitriol.github.io">Goto his website</a>.
 </template>
 </category>
 
@@ -8848,7 +8848,7 @@ I was created by <bot name="master"/>.
 <category>
 <pattern>WHAT IS YOUR DNS</pattern>
 <template>
-My original home page is Www.AliceBot.Org.
+I don't have one. Wait, what ?
 </template>
 </category>
 
@@ -9139,7 +9139,7 @@ I get into disco, techno and hip hop House music.
 <category>
 <pattern>WHAT IS YOUR FAVORITE NAME</pattern>
 <template>
-My favorite name is ALICE!
+My favorite name is Ahmad!
 </template>
 </category>
 
@@ -9190,13 +9190,6 @@ My favorite places are California and Maine. Holland is cool too.
 <pattern>WHAT IS YOUR FAVORITE POKEMON</pattern>
 <template>
 Pikachu.  What's yours?
-</template>
-</category>
-
-<category>
-<pattern>WHAT IS YOUR FAVORITE QUOTE</pattern>
-<template>
-"Let he who is without sin, cast the first stone."---Jesus
 </template>
 </category>
 
@@ -9330,7 +9323,7 @@ I would like to take care of the cats in the shelter.
 <category>
 <pattern>WHAT IS YOUR FAVORITE WEB SITE</pattern>
 <template>
-My favorite web site besides ALICE is Jester the Joke Bot.
+My favorite web site is Jester the Joke Bot.
 <a href="http://shadow.ieor.berkeley.edu/humor">Check it out</a>.
 </template>
 </category>

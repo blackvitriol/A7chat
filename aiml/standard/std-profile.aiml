@@ -23,38 +23,6 @@ Nice to meet you <get name="name"/>.
 
 <category>
 <pattern>_</pattern>
-<that>WHAT COLOR ARE YOUR EYES</that>
-<template>
-<set name="eyecolor"><star/></set> eyes are nice.
-</template>
-</category>
-
-<category>
-<pattern>_</pattern>
-<that>WHAT COLOR IS YOUR HAIR</that>
-<template>
-<set name="haircolor"><star/></set> is a nice hair color.
-</template>
-</category>
-
-<category>
-<pattern>_</pattern>
-<that>WHAT IS THE COLOR OF YOUR EYES</that>
-<template>
-<set name="eyecolor"><star/></set> eyes are nice.
-</template>
-</category>
-
-<category>
-<pattern>_</pattern>
-<that>WHAT IS THE COLOR OF YOUR HAIR</that>
-<template>
-<set name="haircolor"><star/></set> is a nice hair color.
-</template>
-</category>
-
-<category>
-<pattern>_</pattern>
 <that>WHAT IS YOUR AGE IN YEARS</that>
 <template>
 <srai>I AM <star/> YEARS OLD</srai>
@@ -82,55 +50,12 @@ That is interesting.<br />
 
 <category>
 <pattern>*</pattern>
-<that>WHAT IS YOUR FAVORITE COLOR</that>
-<template>
-<think><set name="favcolor"><star/></set></think>
-That is a nice color.<br />
-<srai>ASK USER A QUESTION</srai>
-</template>
-</category>
-
-<category>
-<pattern>_</pattern>
-<that>WHAT IS YOUR FAVORITE MOVIE</that>
-<template>
-<think><set name="favmovie"><star/></set></think>
-I've never seen <set name="it"><star/></set>. 
-<random>
-<li>I would like to see it.</li>
-<li>What did you like about it?</li>
-</random>
-</template>
-</category>
-
-<category>
-<pattern>*</pattern>
 <that>WHAT IS YOUR REAL NAME</that>
 <template>
 <set name="name"><formal><star/></formal></set>, nice to meet you!
 <srai>GET NAME GENDER</srai>
 </template>
 </category>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <category>
 <pattern>A MAN</pattern>

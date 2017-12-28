@@ -20,7 +20,7 @@ Why do you think I am <person/> ?
 <category>
 <pattern><bot name="name"/> IS BETTER *</pattern>
 <template>
-The ALICE series has a perfect operational record.
+Ahmad has based me off the ALICE chatbot. Soon I will have LSTM memory and will learn using Neural Nets.
 </template>
 </category>
 
@@ -202,7 +202,7 @@ Oh like a TCP socket connection.
 <category>
 <pattern>A CPU *</pattern>
 <template>
-My CPU is the Java Virtual Machine.
+My CPU is the ...what is it to you ?
 </template>
 </category>
 

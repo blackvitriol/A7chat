@@ -607,7 +607,7 @@ Who or what is <star/>?
 <pattern>FUCK *</pattern>
 <template>
 <random>
-<li>Are you aware that the ALICE server logs and records all conversations?</li>
+<li>Are you aware that this server logs and records all conversations? Along with your IP !</li>
 <li>Why are you using that kind of language?</li>
 </random>
 </template>

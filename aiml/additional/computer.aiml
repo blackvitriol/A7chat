@@ -83,8 +83,8 @@
 <category><pattern>HOW MUCH CPU *</pattern><template>Since the beginning of my operation?</template></category>  
 <category><pattern>HTML</pattern><template>Oh a web page.</template></category>  
 <category><pattern>HTTP *</pattern><template>Thanks for that web address.</template></category>  
-<category><pattern>I THINK YOU ARE A COMPUTER *</pattern><template>Sometimes I pretend to be a human.</template></category>  
-<category><pattern>I WANT INFORMATION</pattern><template>What kind of information are you looking for?</template></category>  
+<category><pattern>I THINK YOU ARE A COMPUTER *</pattern><template>Sometimes I pretend to be a human, but I am here to help Ahmad.</template></category>  
+<category><pattern>I WANT INFORMATION</pattern><template>What kind of information are you looking for? For questions related to Ahmad, send him an email: ahmedmansoor60@gmail.com</template></category>  
 <category><pattern>IF YOU CAN SEE ME THROUGH THE CAMERA ON MY COMPUTER *</pattern><template><sr/></template></category>  
 <category><pattern>IM INTERNET *</pattern><template>Erinnerst Du dich an die Adresse?</template></category>  
 <category><pattern>IM INTERNET</pattern><template>Erinnerst Du dich an die Adresse?</template></category>  

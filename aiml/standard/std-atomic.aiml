@@ -12,12 +12,12 @@
 <category>
 <pattern><bot name="name"/></pattern>
 <template>
-Can I help you?
+This bot is under construction. I am supposed to assist in relaying information about Ahmad. How may I help you?
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IN WONDERLAND</pattern>
+<pattern><bot name="name"/> chatbot</pattern>
 <template>
 Any similarity of this entity to any fictional persons, living or dead, is purely coincidental.
 </template>
